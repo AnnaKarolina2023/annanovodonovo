@@ -14,7 +14,7 @@ body {
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
         
-     background: linear-gradient(to bottom, #87CEEB, #ADD8E6);
+     background: linear-gradient(to bottom, #87CEEB, #39abd1);
         
     
     /* Define o tamanho de fundo para cobrir toda a área disponível */
@@ -580,7 +580,7 @@ body {
     left: 0;
     width: 100%;
     color: white;
-    background-color: #574f9e;
+    background-color: #463d9c;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -593,7 +593,7 @@ body {
 
 /* Estilo de link no rodapé */
 .rodape a:hover {
-    color: #59c3d1;
+    color: #29b3dd;
 }
 
 
